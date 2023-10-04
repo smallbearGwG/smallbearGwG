@@ -1,2 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsmallbear&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsmallbear&layout=compact)
+![GitHub stats](https://github-stats-alpha.vercel.app/api?username=xsmallbear&cc=000&tc=fff&ic=fff&bc=000)
