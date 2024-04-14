@@ -27,4 +27,4 @@
          ;KMMMMMMMWXXWMMMMMMMk.       MEMORY: 21KB / 48KB
            .COOC,.    .,COO:.       
 
-    ]
+    ]⬛
