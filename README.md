@@ -1,1 +1,19 @@
-![GitHub stats](https://github-stats-alpha.vercel.app/api?username=xsmallbear&cc=FFFFFF&tc=303133&ic=409EFF&bc=CDD0D6)
+     ~ neofetch
+        
+                        'c.
+                     ,xNMM.
+                   .OMMMMo
+                   0MMM0,
+         .;loddo:' loolloddol;.
+       cKMMMMMMMMMMNWMMMMMMMMMM0:
+     .KMMMMMMMMMMMMMMMMMMMMMMMWd.
+     XMMMMMMMMMMMMMMMMMMMMMMMX.
+    ;MMMMMMMMMMMMMMMMMMMMMMMM:
+    :MMMMMMMMMMMMMMMMMMMMMMMM:
+    .MMMMMMMMMMMMMMMMMMMMMMMMX.
+     kMMMMMMMMMMMMMMMMMMMMMMMMWd.
+     .XMMMMMMMMMMMMMMMMMMMMMMMMMMk
+      .XMMMMMMMMMMMMMMMMMMMMMMMMK.
+        kMMMMMMMMMMMMMMMMMMMMMMd
+         ;KMMMMMMMWXXWMMMMMMMk.
+           .cooc,.    .,coo:.
