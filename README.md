@@ -1,4 +1,4 @@
-                                 APPLE ][
+                                                              APPLE ][
      ]neofetch
         
                         'C.         SMALLBEAR@SMALLBEAR_GITHUB_PAGE
