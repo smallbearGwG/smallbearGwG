@@ -1,7 +1,15 @@
-                                                              APPLE ][
-     ]neofetch
+                                APPLE ][
+     ]LOAD NAME
+     SMALLBEAR
+     ]LOAD BIRTHDAY
+     2000-4-2
+     ]LOAD LOCATION
+     CANTON
+     ]LOAD LANGUAGES
+     C & C# & JAVA & PYTHON
+     ]NEOFETCH
         
-                        'C.         SMALLBEAR@SMALLBEAR_GITHUB_PAGE
+                        'C.         SMALLBEAR@SMALLBEAR‘S_GITHUB_PAGE
                      ,XNMM.         ---------------------------------
                    .OMMMMO          OS: APPLE DOS VERSION 3.3
                    0MMM0,           HOST: APLLE ][
@@ -15,9 +23,8 @@
      KMMMMMMMMMMMMMMMMMMMMMMMMWD.   TERMINAL: NONE
      .XMMMMMMMMMMMMMMMMMMMMMMMMMMK  TERNIMAL FONT: NONE
       .XMMMMMMMMMMMMMMMMMMMMMMMMK.  CPU: MOS6502
-        KMMMMMMMMMMMMMMMMMMMMMMD    CPU: MOS6560
+        KMMMMMMMMMMMMMMMMMMMMMMD    GPU: MOS6560
          ;KMMMMMMMWXXWMMMMMMMk.     MEMORY: 21KB / 48KB
            .COOC,.    .,COO:.       
 
     ]
-
